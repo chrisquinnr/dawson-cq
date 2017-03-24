@@ -1,0 +1,14 @@
+{
+  "name": "dawson-cq",
+  "version": "1.0.0",
+  "main": "api.js",
+  "repository": "git@github.com:chrisquinnr/dawson-cq.git",
+  "author": "chrisquinnr@gmail.com",
+  "license": "MIT",
+  "dawson": {
+    "root": "assets"
+  },
+  "dependencies": {
+    "babel-preset-dawson": "^0.1.0"
+  }
+}
